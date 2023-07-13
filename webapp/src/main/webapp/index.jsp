@@ -3,8 +3,10 @@
     <h1>Register</h1>
     <p>Please fill in this form to create an a/c.</p>
     <hr>
+    <br>
+    <br>
      
-    <label for="Name"><b>Enter your full Name</b></label>
+    <label for="Name"><b>Enter full Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
